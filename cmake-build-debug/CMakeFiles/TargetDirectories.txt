@@ -1,0 +1,3 @@
+C:/Users/yehia/CLionProjects/InventoryManagementSystem/cmake-build-debug/CMakeFiles/InventoryManagementSystem.dir
+C:/Users/yehia/CLionProjects/InventoryManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yehia/CLionProjects/InventoryManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
